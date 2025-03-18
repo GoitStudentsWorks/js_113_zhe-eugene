@@ -1,11 +1,11 @@
 {
-  "name": "dom-inator_009",
+  "name": "js_113_zhe-eugene",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/dom-inator_009/",
+    "build": "vite build --base=/js_113_zhe-eugene/",
     "preview": "vite preview"
   },
   "devDependencies": {
